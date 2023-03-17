@@ -1,4 +1,3 @@
-# soldatova.svetlana.github.io
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +25,7 @@
 			font-family: Open Sans, sans-serif;
 			font-size: 49px;
 			color: #FFFFFF;
-      margin-bottom: -46px;
+                        margin-bottom: -46px;
       
 		}
 		.block3 h2 {
@@ -55,7 +54,7 @@
 			background-color: #505258;
 			color: #FFFFFF;
 			font-family: Open Sans, sans-serif;
-      border-radius: 8px;
+                        border-radius: 8px;
 			font-size: 16px;
 			padding: 12px 32px;
 			margin-right: 10px;
