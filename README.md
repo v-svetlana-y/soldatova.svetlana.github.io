@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>ПРИВЕТ! Я СВЕТЛАНА</title>
-	<meta charset="UTF-8">
 	<style>
 		body {
 			background-color: #000000;
